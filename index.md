@@ -1,6 +1,6 @@
 ---
-layout: home
-title: "Home"
+layout: name
+title: "Mehdi Karbalayghareh"
 ---
 
 Welcome to my homepage.
