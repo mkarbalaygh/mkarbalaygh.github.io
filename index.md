@@ -1,6 +1,8 @@
 ---
-layout: default
+layout: home
 title: "Home"
 ---
 
-Welcome to my academic homepage. 
+<img src="/assets/images/profile.jpg" alt="Profile Photo" class="profile-img">
+<h1>Mehdi Karbalay-Ghareh</h1>
+<p>I work on wireless and optical communication systems.</p>
