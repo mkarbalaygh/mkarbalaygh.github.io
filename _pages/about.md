@@ -4,4 +4,4 @@ title: "About"
 permalink: /about/
 ---
 
-Write your about content here.
+Dr. Mehdi received his PhD in 2024...
