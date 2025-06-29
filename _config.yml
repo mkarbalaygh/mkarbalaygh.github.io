@@ -3,10 +3,11 @@ email: "m.karbalay.gh@gmail.com"
 description: "Academic personal website"
 url: "https://mkarbalaygh.github.io"
 baseurl: ""
-theme: minima
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 collections:
   pages:
