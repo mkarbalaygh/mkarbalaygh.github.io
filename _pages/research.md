@@ -4,4 +4,4 @@ title: "Research"
 permalink: /research/
 ---
 
-Write about your research interests and projects here.
+My research interests lie at the intersection of information theory and machine learning with applications in wireless networks.
