@@ -1,9 +1,9 @@
-title: "Home"
+title: "Mehdi Karbalay-Ghareh"
 email: "m.karbalay.gh@gmail.com"
 description: "Academic personal website"
 url: "https://mkarbalaygh.github.io"
 baseurl: ""
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
