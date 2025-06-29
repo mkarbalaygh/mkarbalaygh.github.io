@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Mehdi Karbalayghareh"
+layout: default
+title: "Home"
 ---
 
-Welcome to my homepage.
+Welcome to my academic homepage. 
