@@ -1,10 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Aptos:wght@400;600;700&display=swap');
 
 body {
   margin: 0;
-  font-family: 'EB Garamond', serif;
+  font-family: 'Aptos', sans-serif;
+  font-size: 18px;
   background: #fff;
   color: #000;
 }
+
 .navbar {
   display: flex;
   flex-wrap: wrap;
@@ -13,10 +16,13 @@ body {
   background: #f8f8f8;
   border-bottom: 1px solid #ddd;
 }
+
 .navbar a {
   text-decoration: none;
   color: #000;
+  font-size: 1.1rem;
 }
+
 .profile-img {
   width: 180px;
   height: 180px;
@@ -24,15 +30,19 @@ body {
   display: block;
   margin: 2rem auto 1rem;
 }
+
 .page-content {
   max-width: 800px;
   margin: 2rem auto;
   padding: 1rem;
   text-align: center;
+  font-size: 1.1rem;
 }
+
 .footer {
   text-align: center;
   padding: 2rem 0;
-  font-size: 0.9rem;
+  font-size: 1rem;
   color: #888;
 }
+
