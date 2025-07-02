@@ -23,6 +23,10 @@ body {
   font-size: 1.1rem;
 }
 
+.navbar a.home-link {
+  color: #006400 !important;
+}
+
 .profile-img {
   width: 180px;
   height: 180px;
