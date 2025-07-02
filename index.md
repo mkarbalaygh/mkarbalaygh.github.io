@@ -3,9 +3,17 @@ layout: home
 title: "Home"
 ---
 
-<img src="/assets/images/IMG_5182.jpeg"
-     alt="Profile Photo"
-     style="width: 400px; height: 400px; border-radius: 50%; border: 2px solid #ccc; object-fit: cover; display: block; margin: 2rem auto 1rem;">
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; padding: 4rem 2rem; max-width: 1000px; margin: 0 auto;">
 
-<h1 style="text-align: center;">Mehdi Karbalayghareh</h1>
-<p style="text-align: center;">I work on machine learning and information theory.</p>
+  <div style="flex-shrink: 0;">
+    <img src="/assets/images/IMG_5182.jpeg" 
+         alt="Profile Photo" 
+         style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 2px solid #ccc;">
+  </div>
+
+  <div style="margin-left: 2rem; max-width: 500px;">
+    <h1 style="margin-bottom: 0.5rem;">Mehdi Karbalayghareh</h1>
+    <p style="font-size: 1.2rem;">I work on machine learning and information theory.</p>
+  </div>
+
+</div>
