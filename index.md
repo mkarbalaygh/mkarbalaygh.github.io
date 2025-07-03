@@ -6,7 +6,7 @@ title: "Home"
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; padding: 4rem 2rem; max-width: 1000px; margin: 0 auto;">
 
   <div style="flex-shrink: 0;">
-    <img src="/assets/images/IMG_5182.jpeg" 
+    <img src="/assets/images/52616DFD-22BC-42F9-9AD0-132018D2E23D_1_105_c.jpeg" 
          alt="Profile Photo" 
          style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 2px solid #ccc;">
   </div>
