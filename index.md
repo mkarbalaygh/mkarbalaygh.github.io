@@ -17,17 +17,14 @@ title: "Home"
   </div>
 
 <div class="social-icons">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/mehdi-karbalayghareh-818b0392/" target="_blank">
     <img src="/assets/images/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+  <a href="https://scholar.google.com/citations?user=DRw2sL8AAAAJ&hl=en" target="_blank">
     <img src="/assets/images/scholar.png" alt="Google Scholar" />
   </a>
-  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
-    <img src="/assets/images/x.png" alt="X (Twitter)" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="/assets/images/github.png" alt="GitHub" />
+  <a href="https://x.com/i/flow/login" target="_blank">
+    <img src="/assets/images/x.png" alt="X" />
   </a>
 </div>
 
