@@ -8,7 +8,7 @@ title: "Home"
   <div style="flex-shrink: 0;">
     <img src="/assets/images/52616DFD-22BC-42F9-9AD0-132018D2E23D_1_105_c.jpeg" 
          alt="Profile Photo" 
-         style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; border: 2px solid #ccc;">
+         style="width: 140px; height: 180px; border-radius: 50%; object-fit: cover; border: 2px solid #ccc;">
   </div>
 
   <div style="margin-left: 2rem; max-width: 500px;">
