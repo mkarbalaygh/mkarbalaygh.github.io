@@ -12,8 +12,8 @@ title: "Home"
   </div>
 
   <div style="margin-left: 2rem; max-width: 500px;">
-    <h1 style="margin-bottom: 0.5rem;">Mehdi Karbalayghareh</h1>
-    <p style="font-size: 1rem;">I work on machine learning and information theory.</p>
+    <h1 style="margin-bottom: 0.5rem; font-size: 2.5rem;">Mehdi Karbalayghareh</h1>
+    <p style="font-size: 0.7rem;">I work on machine learning and information theory.</p>
   </div>
 
 </div>
