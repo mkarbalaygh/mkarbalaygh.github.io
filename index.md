@@ -5,23 +5,26 @@ title: "Home"
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; padding: 4rem 2rem; max-width: 1000px; margin: 0 auto;">
 
-  <!-- Left: photo + tagline -->
-  <div style="flex-shrink: 0; text-align: center;">
+  <!-- Left: Profile photo -->
+  <div style="flex-shrink: 0;">
     <img src="/assets/images/52616DFD-22BC-42F9-9AD0-132018D2E23D_1_105_c.jpeg" 
          alt="Profile Photo" 
          style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; border: 2px solid #ccc;">
-
-    <p class="homepage-intro" style="margin-top: 0.8rem;">Working on machine learning and information theory.</p>
   </div>
 
-  <!-- Right: name + affiliation -->
+  <!-- Right: Name + Affiliation -->
   <div style="margin-left: 2rem; max-width: 500px;">
     <h1 class="homepage-name">Mehdi Karbalayghareh</h1>
     <p class="affiliation">Postdoctoral Researcher at Purdue University</p>
   </div>
 </div>
 
-<!-- Social icons centered below -->
+<!-- Centered tagline BELOW the photo+name block -->
+<p class="homepage-intro" style="text-align: center; margin-top: 1rem;">
+  Working on machine learning and information theory.
+</p>
+
+<!-- Social icons -->
 <div class="social-icons">
   <a href="https://www.linkedin.com/in/mehdi-karbalayghareh-818b0392/" target="_blank">
     <img src="/assets/images/linkedin.png" alt="LinkedIn" />
@@ -33,3 +36,4 @@ title: "Home"
     <img src="/assets/images/email.png" alt="Email" />
   </a>
 </div>
+
