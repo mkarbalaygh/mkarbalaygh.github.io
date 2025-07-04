@@ -6,7 +6,7 @@ permalink: /research/
 
 <h1 style="text-align: center;">Research</h1>
 
-<div style="max-width: 800px; margin: 1rem auto; font-size: 1.1rem; text-align: justify;">
+<div style="max-width: 800px; margin: 1rem auto; font-size: 1rem; line-height: 2.2; text-align:">
   <p>
     My recent research interests lie in the intersection of information theory and machine learning with applications in wireless communications, including but not limited to:
   </p>
