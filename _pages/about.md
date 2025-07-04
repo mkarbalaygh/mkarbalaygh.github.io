@@ -16,13 +16,12 @@ permalink: /about/
   </p>
 
   <p>
-    Before joining Purdue, I was conducting research at Nokia Bell Labs
-    <strong><a href="https://www.nokia.com/bell-labs/"/a></strong> in Murray Hill, NJ. I received my PhD in 2024 from the Department of Electrical and Computer Engineering at the University of Texas at Dallas, where I was advised by 
+    Before joining Purdue, I was conducting research at 
+    <strong><a href="https://www.nokia.com/bell-labs/" target="_blank">Nokia Bell Labs</a></strong> in Murray Hill, NJ. I received my PhD in 2024 from the Department of Electrical and Computer Engineering at the University of Texas at Dallas, where I was advised by 
     <strong><a href="https://labs.utdallas.edu/aria/people/dr-aria-nosratinia/" target="_blank">Prof. Aria Nosratinia</a></strong>.
   </p>
 
 </div>
-
 
 
 
