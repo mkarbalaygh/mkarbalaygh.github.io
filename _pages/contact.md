@@ -9,7 +9,6 @@ permalink: /contact/
 <div style="max-width: 1000px; margin: 2rem auto; font-size: 0.95rem; line-height: 1.8; text-align: left;">
 
   <p><strong>Email:</strong> <a href="mailto:mkarbala@purdue.edu">mkarbala@purdue.edu</a></p>
-  <p><strong>Alternate Email:</strong> m.karbalay.gh@gmail.com</p>
 
 <p><strong>Address:</strong><br>
 Office: BHEE 052<br>
