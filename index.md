@@ -15,12 +15,12 @@ title: "Home"
   <!-- Right: Name + Affiliation -->
   <div style="margin-left: 2rem; max-width: 500px;">
     <h1 class="homepage-name">Mehdi Karbalayghareh</h1>
-    <p class="affiliation" style="margin-top: 5mm; font-size: 0.9rem;">Postdoctoral Researcher @ Purdue University</p>
+    <p class="affiliation" style="margin-top: 5mm; font-size: 0.95rem;">Postdoctoral Researcher @ Purdue University</p>
   </div>
 </div>
 
 <p class="homepage-intro" style="text-align: center; margin-top: -0.5cm;">
-  Machine Learning <span style="font-size: 0.8em;">∩</span> Information Theory → Future Wireless
+  Machine Learning <span style="font-size: 1.1em;">∩</span> Information Theory → Future Wireless
 </p>
 
 <!-- Social icons -->
