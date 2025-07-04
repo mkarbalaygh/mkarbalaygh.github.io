@@ -13,7 +13,7 @@ title: "Home"
 
   <div style="margin-left: 2rem; max-width: 500px;">
     <h1 class="homepage-name">Mehdi Karbalayghareh</h1>
-    <p class="homepage-intro">Postdoctoral Researcher at Purdue University</p>
+    <p class="affiliation">Postdoctoral Researcher at Purdue University</p>
     <p class="homepage-intro">Working on machine learning and information theory.</p>
   </div>
 
