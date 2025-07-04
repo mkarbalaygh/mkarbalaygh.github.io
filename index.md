@@ -13,7 +13,7 @@ title: "Home"
 
   <div style="margin-left: 2rem; max-width: 500px;">
     <h1 class="homepage-name">Mehdi Karbalayghareh</h1>
-    <p class="homepage-intro">I work on machine learning and information theory.</p>
+    <p class="homepage-intro">Working in machine learning and information theory.</p>
   </div>
 
 <div class="social-icons">
