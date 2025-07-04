@@ -8,7 +8,7 @@ permalink: /research/
 
 <div style="max-width: 1000px; margin: 1rem auto; font-size: 0.95rem; line-height: 1.8; text-align: left;">
   <p>
-    My recent research interests lie in the intersection of information theory and machine learning with applications in wireless communications, including but not limited to:
+    My research interests lie in the intersection of information theory and machine learning with applications in wireless communications, including but not limited to:
   </p>
 
   <ul style="margin-top: 0.5rem; margin-bottom: 1.5rem;">
