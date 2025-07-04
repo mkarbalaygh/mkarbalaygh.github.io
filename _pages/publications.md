@@ -16,7 +16,7 @@ permalink: /publications/
   <h3>Submitted Papers</h3>
   <ul>
     <li>[S2] M. Karbalayghareh and A. Nosratinia, “Advanced Channel Training and Enhanced Capacity under Antenna Correlation in Multi-User RIS Systems,” under major revision for publication in IEEE Transactions on Wireless Communications.</li>
-    <li>[S1] M. Karbalayghareh and A. Nosratinia, “Correlation Diversity for Downlink MIMO with Reconfigurable Intelligent Surfaces,” submitted for publication in IEEE International Symposium on Information Theory (ISIT 2025).</li>
+    <li>[S1] M. Karbalayghareh and A. Nosratinia, “Correlation Diversity for Downlink MIMO with Reconfigurable Intelligent Surfaces,” submitted for publication in IEEE Global Communications Conference (GLOBECOM 2025).</li>
   </ul>
 
   <h3>Journal Papers</h3>
