@@ -14,13 +14,13 @@ permalink: /publications/
   </p>
 
   <h3>Submitted Papers</h3>
-  <ul>
+  <ul class="no-bullets">
     <li>[S2] M. Karbalayghareh and A. Nosratinia, “Advanced Channel Training and Enhanced Capacity under Antenna Correlation in Multi-User RIS Systems,” IEEE Transactions on Wireless Communications, 2024</li>
     <li>[S1] M. Karbalayghareh and A. Nosratinia, “Correlation Diversity for Downlink MIMO with Reconfigurable Intelligent Surfaces,” IEEE GLOBECOM, 2025</li>
   </ul>
 
   <h3>Journal Papers</h3>
-  <ul>
+  <ul class="no-bullets">
     <li>[J7] M. Karbalayghareh and A. Nosratinia, “Pilot-Domain NOMA for RIS-Assisted Communications,” IEEE Transactions on Communications, 2024</li>
     <li>[J6] M. Karbalayghareh and A. Nosratinia, “Multi-User Pilot-Domain NOMA under Coherence Disparity and Channel State Feedback,” IEEE Transactions on Wireless Communications, 2024</li>
     <li>[J5] M. Karbalayghareh, F. Miramirkhani, H. B. Eldeeb, R. C. Kizilirmak, S. M. Sait, and M. Uysal, “Channel Modelling and Performance Limits of Vehicular Visible Light Communication Systems,” IEEE Transactions on Vehicular Technology, 2020</li>
@@ -31,7 +31,7 @@ permalink: /publications/
   </ul>
 
   <h3>Conference Papers</h3>
-  <ul>
+  <ul class="no-bullets">
     <li>[C9] M. Karbalayghareh and A. Nosratinia, “Pilot-Domain NOMA for Multi-User RIS-Assisted Communications,” IEEE ICC, 2024</li>
     <li>[C8] M. Karbalayghareh and A. Nosratinia, “RIS-Assisted Downlink Transmission under Unequal Coherence Intervals and CSI Feedback,” IEEE PIMRC, 2023</li>
     <li>[C7] M. Karbalayghareh and A. Nosratinia, “Interaction of Pilot Reuse and Channel State Feedback under Coherence Disparity,” IEEE ITW, 2022</li>
