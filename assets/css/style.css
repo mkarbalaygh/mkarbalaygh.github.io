@@ -31,7 +31,7 @@ html, body {
 .navbar a {
   text-decoration: none;
   color: #000;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 
 .navbar a.home-link {
