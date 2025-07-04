@@ -20,7 +20,7 @@ title: "Home"
 </div>
 
 <!-- Centered tagline BELOW the photo+name block -->
-<p class="homepage-intro" style="text-align: center; margin-top: 1rem;">
+<p class="homepage-intro" style="text-align: center; margin-top: 0.5rem;">
   Working on machine learning and information theory.
 </p>
 
