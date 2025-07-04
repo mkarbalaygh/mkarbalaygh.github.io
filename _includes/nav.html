@@ -1,10 +1,9 @@
 <nav class="navbar">
-  <a href="/">Home</a>
-  <a href="/about/">About</a>
-  <a href="/research/">Research</a>
-  <a href="/publications/">Publications</a>
-  <a href="/talks/">Talks</a>
+  <a href="/" class="home-link">Home</a>
+  <a href="/about/" class="{% if page.url == '/about/' %}active{% endif %}">About</a>
+  <a href="/research/" class="{% if page.url == '/research/' %}active{% endif %}">Research</a>
+  <a href="/publications/" class="{% if page.url == '/publications/' %}active{% endif %}">Publications</a>
+  <a href="/talks/" class="{% if page.url == '/talks/' %}active{% endif %}">Talks</a>
   <a href="/files/cv.pdf" target="_blank">CV</a>
-  <a href="/contact/">Contact</a>
+  <a href="/contact/" class="{% if page.url == '/contact/' %}active{% endif %}">Contact</a>
 </nav>
-
