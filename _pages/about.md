@@ -12,7 +12,7 @@ permalink: /about/
     I am currently a postdoctoral researcher at the Elmore Family School of Electrical and Computer Engineering at Purdue University, working jointly with 
     <strong><a href="https://engineering.purdue.edu/~djlove/" target="_blank">Prof. David Love</a></strong> and 
     <strong><a href="https://www.cbrinton.net/index.html" target="_blank">Prof. Christopher G. Brinton</a></strong> 
-    on the broad areas in machine learning and information theory with applications in future wireless networks (6G and beyond).
+    on broad topics in machine learning and information theory with applications in future wireless networks (6G and beyond).
   </p>
 
   <p>
