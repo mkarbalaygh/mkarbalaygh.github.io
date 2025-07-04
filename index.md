@@ -32,7 +32,7 @@ title: "Home"
   <a href="https://scholar.google.com/citations?user=DRw2sL8AAAAJ&hl=en" target="_blank">
     <img src="/assets/images/scholar.png" alt="Google Scholar" />
   </a>
-  <a href="mailto:m.karbalay.gh@gmail.com">
+  <a href="mailto:mkarbala@purdue.edu">
     <img src="/assets/images/email.png" alt="Email" />
   </a>
 </div>
