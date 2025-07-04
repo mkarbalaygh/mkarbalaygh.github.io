@@ -21,7 +21,7 @@ title: "Home"
 
 <!-- Centered tagline BELOW the photo+name block -->
 <p class="homepage-intro" style="text-align: center; margin-top: -0.5cm;">
-  Working on machine learning and information theory.
+  Machine Learning ∩ Information Theory → Future Wireless
 </p>
 
 <!-- Social icons -->
