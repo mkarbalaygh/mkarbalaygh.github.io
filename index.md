@@ -15,12 +15,12 @@ title: "Home"
   <!-- Right: Name + Affiliation -->
   <div style="margin-left: 2rem; max-width: 500px;">
     <h1 class="homepage-name">Mehdi Karbalayghareh</h1>
-    <p class="affiliation">Postdoctoral Researcher at Purdue University</p>
+    <p class="affiliation" style="margin-top: 5mm;">Postdoctoral Researcher at Purdue University</p>
   </div>
 </div>
 
 <!-- Centered tagline BELOW the photo+name block -->
-<p class="homepage-intro" style="text-align: center; margin-top: 0.5rem;">
+<p class="homepage-intro" style="text-align: center; margin-top: -0.5cm;">
   Working on machine learning and information theory.
 </p>
 
@@ -36,4 +36,3 @@ title: "Home"
     <img src="/assets/images/email.png" alt="Email" />
   </a>
 </div>
-
