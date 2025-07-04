@@ -19,9 +19,8 @@ title: "Home"
   </div>
 </div>
 
-<!-- Centered tagline BELOW the photo+name block -->
 <p class="homepage-intro" style="text-align: center; margin-top: -0.5cm;">
-  Machine Learning ∩ Information Theory → Future Wireless
+  Machine Learning <span style="font-size: 0.8em;">∩</span> Information Theory → Future Wireless
 </p>
 
 <!-- Social icons -->
