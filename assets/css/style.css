@@ -66,7 +66,7 @@ html, body {
 .homepage-name {
   font-size: 2.2rem;
   font-weight: 600;
-  margin-bottom: 0.4rem;  /* smaller space after your name */
+  margin-bottom: 0.6rem;  /* smaller space after your name */
 }
 
 .homepage-intro {
