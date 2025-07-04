@@ -24,7 +24,7 @@ title: "Home"
 </p>
 
 <!-- Social icons -->
-<div class="social-icons">
+<div class="social-icons" style="margin-top: 0.5cm;">
   <a href="https://www.linkedin.com/in/mehdi-karbalayghareh-818b0392/" target="_blank">
     <img src="/assets/images/linkedin.png" alt="LinkedIn" />
   </a>
@@ -35,3 +35,4 @@ title: "Home"
     <img src="/assets/images/email.png" alt="Email" />
   </a>
 </div>
+
