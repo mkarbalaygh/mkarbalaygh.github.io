@@ -6,7 +6,7 @@ permalink: /about/
 
 <h1 style="text-align: center;">About</h1>
 
-<div style="max-width: 800px; margin: 1rem auto; font-size: 1rem; line-height: 2.2; text-align: left">
+<div style="max-width: 900px; margin: 1rem auto; font-size: 0.95rem; line-height: 1.8; text-align: left;">
 
   <p>
     I am currently a postdoctoral researcher at the Elmore Family School of Electrical and Computer Engineering at Purdue University, working jointly with 
