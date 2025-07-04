@@ -4,4 +4,4 @@ title: "Publications"
 permalink: /publications/
 ---
 
-Write your publications content here.
+For an up-to-date list of publications, please check my Google Scholar.
