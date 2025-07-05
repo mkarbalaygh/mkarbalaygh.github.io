@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 ---
 
-<h1 style="text-align: center;">About</h1>
+<h1 style="text-align: center;">Mehdi Karbalayghareh, PhD</h1>
 
 <div style="max-width: 1000px; margin: 1rem auto; font-size: 0.95rem; line-height: 1.8; text-align: left;">
 
