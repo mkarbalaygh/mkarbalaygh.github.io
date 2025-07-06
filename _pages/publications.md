@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-<h1 style="text-align: center;">Publications</h1>
+<h1 style="text-align: center; color: gray;">Publications</h1>
 
 <div style="max-width: 1000px; margin: 1rem auto; font-size: 0.9rem; line-height: 1.8; text-align: left;">
 
