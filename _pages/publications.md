@@ -13,12 +13,6 @@ permalink: /publications/
     <strong><a href="https://scholar.google.com/citations?user=DRw2sL8AAAAJ&hl=en" target="_blank">Google Scholar</a></strong>.
   </p>
 
-  <h3>Submitted Papers</h3>
-  <ul class="no-bullets">
-    <li>[S2] M. Karbalayghareh and A. Nosratinia, “Advanced Channel Training and Enhanced Capacity under Antenna Correlation in Multi-User RIS Systems,” IEEE Transactions on Wireless Communications, 2024</li>
-    <li>[S1] M. Karbalayghareh and A. Nosratinia, “Correlation Diversity for Downlink MIMO with Reconfigurable Intelligent Surfaces,” IEEE GLOBECOM, 2025</li>
-  </ul>
-
   <h3>Journal Papers</h3>
   <ul class="no-bullets">
     <li>[J7] M. Karbalayghareh and A. Nosratinia, “Pilot-Domain NOMA for RIS-Assisted Communications,” IEEE Transactions on Communications, 2024</li>
