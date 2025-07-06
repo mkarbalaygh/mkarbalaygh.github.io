@@ -4,7 +4,7 @@ title: "Talks"
 permalink: /talks/
 ---
 
-<h1 style="text-align: center;">Talks</h1>
+<h1 style="text-align: center; color: gray;">Talks</h1>
 
 <div style="max-width: 1000px; margin: 1rem auto; font-size: 0.95rem; line-height: 1.8; text-align: left;">
 
