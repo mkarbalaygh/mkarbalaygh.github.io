@@ -13,7 +13,7 @@ title: "Home"
   </div>
 
   <!-- Right: Name + Affiliation -->
-  <div style="margin-left: 2rem; max-width: 500px;">
+  <div style="margin-left: 2rem; max-width: 800px;">
     <h1 class="homepage-name">Mehdi Karbalayghareh, PhD</h1>
     <p class="affiliation" style="margin-top: 5mm; font-size: 0.95rem;">Postdoctoral Researcher @ Purdue University</p>
   </div>
