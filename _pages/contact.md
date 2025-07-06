@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 ---
 
-<h1 style="text-align: center;">Contact</h1>
+<h1 style="text-align: center; color: gray;">Contact</h1>
 
 <div style="max-width: 1000px; margin: 2rem auto; font-size: 0.95rem; line-height: 1.8; text-align: left;">
 
