@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 ---
 
-<h1 style="text-align: center;">Research</h1>
+<h1 style="text-align: center; color: gray;">Research</h1>
 
 <div style="max-width: 1000px; margin: 1rem auto; font-size: 0.95rem; line-height: 1.8; text-align: left;">
   <p>
