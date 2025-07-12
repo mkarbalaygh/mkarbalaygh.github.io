@@ -73,8 +73,8 @@ body.home .footer {
 
 .hero-card-horizontal {
   background-color: #fff;
-  padding: 2.5rem;
-  max-width: 1200px;
+  padding: 3rem;
+  max-width: 1350px; /* widened */
   width: 100%;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   border-radius: 12px;
@@ -84,6 +84,7 @@ body.home .footer {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: space-between; /* distribute content horizontally */
   gap: 2.5rem;
 }
 
@@ -104,6 +105,7 @@ body.home .footer {
   font-size: 2rem;
   font-weight: 600;
   margin-bottom: 0.5rem;
+  white-space: nowrap; /* prevent name from wrapping */
 }
 
 .hero-text .affiliation {
@@ -138,7 +140,7 @@ body.home .footer {
 }
 
 /* ---------------------- */
-/* OTHER UTILITY */
+/* GENERAL CONTENT */
 /* ---------------------- */
 .page-content {
   max-width: 800px;
