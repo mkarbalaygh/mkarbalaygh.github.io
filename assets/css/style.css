@@ -74,7 +74,7 @@ body.home .footer {
 .hero-card-horizontal {
   background-color: #fff;
   padding: 3rem;
-  max-width: 1300px;
+  max-width: 1400px;
   width: 100%;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   border-radius: 12px;
@@ -107,14 +107,14 @@ body.home .footer {
 }
 
 .hero-text .homepage-name {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 600;
   margin-bottom: 0.5rem;
   white-space: nowrap;
 }
 
 .hero-text .affiliation {
-  font-size: 1.05rem;
+  font-size: 0.95rem;
   color: #666;
   margin-bottom: 1rem;
 }
@@ -137,7 +137,7 @@ body.home .footer {
 }
 
 .homepage-intro.tagline {
-  font-size: 1rem;
+  font-size: 1.2rem;
   margin-top: 2.5rem;
   text-align: center;
 }
