@@ -76,11 +76,11 @@ body.home .footer {
 
 .hero-card-horizontal {
   background-color: #fff;
-  padding: 2rem 2.5rem;
-  max-width: 1300px;
-  width: 150%;
+  padding: 3rem;
+  max-width: 1250px;
+  width: 100%;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  border-radius: 12px;
+  border-radius: 8px;
 }
 
 .hero-inner {
