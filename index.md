@@ -29,11 +29,11 @@ title: "Home"
             <img src="/assets/images/email.png" alt="Email" />
           </a>
         </div>
-
-        <!-- Tagline -->
-        <p class="homepage-intro">Machine Learning <span style="font-size: 1.3em;">∩</span> Information Theory → Future Wireless</p>
       </div>
     </div>
+
+    <!-- Tagline centered at the bottom of the rectangle -->
+    <p class="homepage-intro tagline">Machine Learning <span style="font-size: 1.3em;">∩</span> Information Theory → Future Wireless</p>
 
   </div>
 </div>
