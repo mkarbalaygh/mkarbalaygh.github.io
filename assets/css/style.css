@@ -70,20 +70,20 @@ html, body {
 }
 
 .homepage-name {
-  font-size: 2.2rem;
+  font-size: 2.3rem;
   font-weight: 600;
   margin-bottom: 0.6rem;
 }
 
 .affiliation {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: 500;
   color: #666;
   margin: 0.4rem 0;
 }
 
 .homepage-intro {
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 400;
   margin: 0.6rem 0;
 }
