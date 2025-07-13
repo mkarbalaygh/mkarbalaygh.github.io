@@ -14,7 +14,8 @@ permalink: /publications/
   </p>
 
   <h3>Journal Papers</h3>
-  <ul class="no-bullets">
+  <ul class="no-bullets"> 
+    <li>[J8] M. Karbalayghareh and A. Nosratinia, “Advanced Channel Training and Enhanced Capacity under Antenna Correlation in Multi-User RIS Systems,” IEEE Transactions on Wireless Communications, 2025</li>
     <li>[J7] M. Karbalayghareh and A. Nosratinia, “Pilot-Domain NOMA for RIS-Assisted Communications,” IEEE Transactions on Communications, 2024</li>
     <li>[J6] M. Karbalayghareh and A. Nosratinia, “Multi-User Pilot-Domain NOMA under Coherence Disparity and Channel State Feedback,” IEEE Transactions on Wireless Communications, 2024</li>
     <li>[J5] M. Karbalayghareh, F. Miramirkhani, H. B. Eldeeb, R. C. Kizilirmak, S. M. Sait, and M. Uysal, “Channel Modelling and Performance Limits of Vehicular Visible Light Communication Systems,” IEEE Transactions on Vehicular Technology, 2020</li>
