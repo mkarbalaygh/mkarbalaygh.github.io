@@ -20,9 +20,9 @@ title: "Home"
 </div>
 
 <p class="homepage-intro" style="text-align: center; margin-top: -0.5cm;">
-  <span style="font-size: 1.3em;">[</span>Machine Learning 
+  <span style="font-size: 1.2em;">[</span>Machine Learning 
   <span style="font-size: 1.3em;">∩</span> 
-  Information Theory<span style="font-size: 1.3em;">]</span> for Future Wireless
+  Information Theory<span style="font-size: 1.2em;">]</span> for Future Wireless
 </p>
 
 <!-- Social icons -->
