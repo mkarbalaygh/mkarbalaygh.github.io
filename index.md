@@ -20,7 +20,7 @@ title: "Home"
 </div>
 
 <p class="homepage-intro" style="text-align: center; margin-top: -0.5cm;">
-  I work on [machine learning <span style="font-size: 1.3em;">∩</span> information theory] for future wireless
+  I work on [machine learning <span style="font-size: 1.3em;">∩</span> information theory] for future wireless networks
 </p>
 
 <!-- Social icons -->
