@@ -25,3 +25,5 @@ permalink: /talks/
   </ul>
 
 </div>
+
+<!-- deployment refresh: 2026-09-17 -->
