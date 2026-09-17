@@ -1,39 +1,49 @@
 ---
-layout: home
+layout: default
 title: "Home"
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; padding: 4rem 2rem; max-width: 1000px; margin: 0 auto;">
+<div class="home-grid">
+  <aside class="profile-card">
+    <img class="profile-photo"
+         src="/assets/images/52616DFD-22BC-42F9-9AD0-132018D2E23D_1_105_c.jpeg"
+         alt="Mehdi Karbalayghareh">
 
-  <!-- Left: Profile photo -->
-  <div style="flex-shrink: 0;">
-    <img src="/assets/images/52616DFD-22BC-42F9-9AD0-132018D2E23D_1_105_c.jpeg" 
-         alt="Profile Photo" 
-         style="width: 250px; height: 250px; border-radius: 50%; object-fit: cover; border: 2px solid #ccc;">
+    <h1 class="profile-name">Mehdi Karbalayghareh</h1>
+    <p class="profile-title">Postdoctoral Research Associate</p>
+    <p class="profile-affiliation">Elmore Family School of Electrical and Computer Engineering<br>Purdue University</p>
+    <a class="profile-email" href="mailto:mkarbala@purdue.edu">mkarbala@purdue.edu</a>
+
+    <div class="profile-social" aria-label="Academic and professional profiles">
+      <a href="https://www.linkedin.com/in/mehdi-karbalayghareh-818b0392/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+        <img src="/assets/images/linkedin.png" alt="LinkedIn">
+      </a>
+      <a href="https://scholar.google.com/citations?user=DRw2sL8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+        <img src="/assets/images/scholar.png" alt="Google Scholar">
+      </a>
+      <a href="mailto:mkarbala@purdue.edu" title="Email">
+        <img src="/assets/images/email.png" alt="Email">
+      </a>
+    </div>
+  </aside>
+
+  <div class="home-content">
+    <section class="section-block">
+      <h2 class="section-heading">Bio</h2>
+      <p>
+        I am a postdoctoral researcher at the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. David J. Love and Prof. Christopher G. Brinton on problems at the intersection of artificial intelligence and machine learning, wireless communications, information theory, and distributed optimization, with applications to next-generation wireless networks and distributed intelligence.
+      </p>
+      <p>
+        Before joining Purdue, I conducted research at Nokia Bell Labs in Murray Hill, New Jersey. I received my Ph.D. in Electrical Engineering from The University of Texas at Dallas in 2024, where I was advised by Prof. Aria Nosratinia.
+      </p>
+    </section>
+
+    <section class="section-block">
+      <h2 class="section-heading">Research</h2>
+      <p>
+        My research focuses on machine learning, distributed optimization and edge learning, wireless communications and sensing, next-generation wireless networks, and information theory with applications to learning, communications, security, and privacy.
+      </p>
+      <p class="research-tagline">Machine Learning <span>∩</span> Information Theory for Future Wireless</p>
+    </section>
   </div>
-
-  <!-- Right: Name + Affiliation -->
-  <div style="margin-left: 2rem; max-width: 800px;">
-    <h1 class="homepage-name" style="font-size: 1.7rem;">Mehdi Karbalayghareh, PhD</h1>
-    <p class="affiliation" style="margin-top: 5mm; font-size: 0.95rem;">Postdoctoral Researcher @ Purdue University</p>
-  </div>
-</div>
-
-<p class="homepage-intro" style="text-align: center; margin-top: -0.5cm;">
-  <span style="font-size: 1.2em;">[</span>Machine Learning 
-  <span style="font-size: 1.3em;">∩</span> 
-  Information Theory<span style="font-size: 1.2em;">]</span> for Future Wireless
-</p>
-
-<!-- Social icons -->
-<div class="social-icons" style="margin-top: 1cm;">
-  <a href="https://www.linkedin.com/in/mehdi-karbalayghareh-818b0392/" target="_blank">
-    <img src="/assets/images/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=DRw2sL8AAAAJ&hl=en" target="_blank">
-    <img src="/assets/images/scholar.png" alt="Google Scholar" />
-  </a>
-  <a href="mailto:mkarbala@purdue.edu">
-    <img src="/assets/images/email.png" alt="Email" />
-  </a>
 </div>
