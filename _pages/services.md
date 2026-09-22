@@ -15,7 +15,11 @@ permalink: /services/
 
   <h3>Session Chair</h3>
   <ul class="service-list">
-    <li>IEEE International Conference on Computer Communications (INFOCOM), two technical sessions, 2026</li>
+    <li>IEEE International Conference on Computer Communications (INFOCOM), 2026
+      <ul>
+        <li>Two technical sessions</li>
+      </ul>
+    </li>
   </ul>
 
   <h3>Reviewer</h3>
