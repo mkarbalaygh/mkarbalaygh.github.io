@@ -390,3 +390,27 @@ body.research .page-content li {
     font-size: 27px;
   }
 }
+
+/* Teaching page: university with nested courses, consistent with the academic layout. */
+body.teaching .teaching-section .section-heading {
+  margin-top: 0;
+}
+.teaching-list {
+  list-style-type: square;
+  padding-left: 23px;
+  margin: 0;
+}
+.teaching-course-list {
+  list-style-type: circle;
+  padding-left: 23px;
+  margin: 8px 0 0;
+}
+.teaching-course-list li {
+  margin-bottom: 15px;
+}
+.teaching-role {
+  display: block;
+  color: var(--muted);
+  font-size: 15px;
+  margin-top: 2px;
+}
