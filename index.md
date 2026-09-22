@@ -18,7 +18,7 @@ title: "Home"
       <a href="https://www.linkedin.com/in/mehdi-karbalayghareh-818b0392/" target="_blank" rel="noopener noreferrer" title="LinkedIn">
         <img src="/assets/images/linkedin.png" alt="LinkedIn">
       </a>
-      <a href="https://scholar.google.com/citations?user=DRw2sL8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar">
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=DRw2sL8AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener noreferrer" title="Google Scholar">
         <img src="/assets/images/scholar.png" alt="Google Scholar">
       </a>
       <a href="mailto:mkarbala@purdue.edu" title="Email">
