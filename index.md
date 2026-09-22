@@ -41,7 +41,7 @@ title: "Home"
     <section class="section-block">
       <h2 class="section-heading">Research Interests</h2>
       <p>
-        My research lies at the intersection of machine learning, information theory, and wireless communications. I focus on distributed edge intelligence and federated learning over heterogeneous wireless networks, including the joint design of sensing, computation, and communication under practical channel impairments. I also investigate integrated sensing and communication for 6G, as well as multiuser MIMO and reconfigurable intelligent surface (RIS) systems that exploit coherence and spatial correlation diversity.
+        My research lies at the intersection of artificial intelligence and machine learning (AI/ML), information theory, and wireless communications, with applications to future wireless networks (6G and beyond). I focus on edge intelligence and distributed learning over heterogeneous and imperfect wireless links, including the AI-integrated joint design of sensing, computation, and communication under practical channel impairments.
       </p>
     </section>
 
