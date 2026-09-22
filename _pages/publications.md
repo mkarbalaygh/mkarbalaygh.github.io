@@ -10,7 +10,7 @@ permalink: /publications/
 
   <p>
     For an up-to-date list of publications, please check my
-    <strong><a href="https://scholar.google.com/citations?user=DRw2sL8AAAAJ&hl=en" target="_blank">Google Scholar</a></strong>.
+    <strong><a href="https://scholar.google.com/citations?hl=en&amp;user=DRw2sL8AAAAJ&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">Google Scholar</a></strong>.
   </p>
 
   <h3>Journal Papers</h3>
