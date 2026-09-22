@@ -31,14 +31,27 @@ title: "Home"
     <section class="section-block">
       <h2 class="section-heading">Bio</h2>
       <p>
-        I am a postdoctoral researcher at the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. David J. Love and Prof. Christopher G. Brinton at the intersection of artificial intelligence and machine learning, wireless communications, information theory, and distributed optimization.
-      </p>
-      <p>
-        My research focuses on distributed edge intelligence for next-generation wireless networks. I investigate learning-aware approaches that jointly consider edge sensing, computation, and communication; coherence-aware federated and decentralized learning under heterogeneous wireless conditions; and multiuser MIMO and reconfigurable intelligent surface (RIS) systems that exploit coherence and correlation diversity.
+        I am a Postdoctoral Research Associate at the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. David J. Love and Prof. Christopher G. Brinton.
       </p>
       <p>
         Before joining Purdue, I conducted research at Nokia Bell Labs in Murray Hill, New Jersey. I received my Ph.D. in Electrical Engineering from The University of Texas at Dallas in 2024, where I was advised by Prof. Aria Nosratinia.
       </p>
+    </section>
+
+    <section class="section-block">
+      <h2 class="section-heading">Research Interests</h2>
+      <p>
+        My research lies at the intersection of machine learning, information theory, and wireless communications. I focus on distributed edge intelligence and federated learning over heterogeneous wireless networks, including the joint design of sensing, computation, and communication under practical channel impairments. I also investigate integrated sensing and communication for 6G, as well as multiuser MIMO and reconfigurable intelligent surface (RIS) systems that exploit coherence and spatial correlation diversity.
+      </p>
+    </section>
+
+    <section class="section-block">
+      <h2 class="section-heading">Recent News</h2>
+      <ul class="news-list">
+        <li><strong class="news-date">[09/2026]</strong> Serving on the Technical Program Committee (TPC) for the IEEE International Conference on Communications (ICC 2027).</li>
+        <li><strong class="news-date">[05/2026]</strong> Served as session chair for two technical sessions at IEEE INFOCOM 2026 in Tokyo, Japan.</li>
+        <li><strong class="news-date">[05/2026]</strong> Presented the paper “Coherence-Aware Distributed Learning under Heterogeneous Downlink Impairments” at IEEE INFOCOM 2026 in Tokyo, Japan.</li>
+      </ul>
     </section>
   </div>
 </div>

@@ -274,6 +274,25 @@ body.home .page-content {
   font-weight: 700;
 }
 
+/* Homepage recent news */
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-list li {
+  margin: 0 0 16px;
+  padding-left: 15px;
+  border-left: 2px solid var(--border);
+}
+
+.news-date {
+  font-weight: 700;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
 /* Existing content pages */
 .page-content > div[style*="max-width"] {
   max-width: none !important;

@@ -40,8 +40,8 @@ permalink: /services/
     <li>IEEE Vehicular Technology Conference (VTC)</li>
     <li>IEEE National Conference on Communications (NCC)</li>
     <li>IEEE Military Communications Conference (MILCOM)</li>
-    <li>Physical Communication (Elsevier)</li>
     <li>ACM International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc)</li>
+    <li>Physical Communication (Elsevier)</li>
   </ul>
 
 </div>
