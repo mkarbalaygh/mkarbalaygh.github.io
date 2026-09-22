@@ -31,19 +31,14 @@ title: "Home"
     <section class="section-block">
       <h2 class="section-heading">Bio</h2>
       <p>
-        I am a postdoctoral researcher at the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. David J. Love and Prof. Christopher G. Brinton on problems at the intersection of artificial intelligence and machine learning, wireless communications, information theory, and distributed optimization, with applications to next-generation wireless networks and distributed intelligence.
+        I am a postdoctoral researcher at the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. David J. Love and Prof. Christopher G. Brinton at the intersection of artificial intelligence and machine learning, wireless communications, information theory, and distributed optimization.
+      </p>
+      <p>
+        My research focuses on distributed edge intelligence for next-generation wireless networks. I investigate learning-aware approaches that jointly consider edge sensing, computation, and communication; coherence-aware federated and decentralized learning under heterogeneous wireless conditions; and multiuser MIMO and reconfigurable intelligent surface (RIS) systems that exploit coherence and correlation diversity.
       </p>
       <p>
         Before joining Purdue, I conducted research at Nokia Bell Labs in Murray Hill, New Jersey. I received my Ph.D. in Electrical Engineering from The University of Texas at Dallas in 2024, where I was advised by Prof. Aria Nosratinia.
       </p>
-    </section>
-
-    <section class="section-block">
-      <h2 class="section-heading">Research</h2>
-      <p>
-        My research focuses on machine learning, distributed optimization and edge learning, wireless communications and sensing, next-generation wireless networks, and information theory with applications to learning, communications, security, and privacy.
-      </p>
-      <p class="research-tagline">Machine Learning <span>∩</span> Information Theory for Future Wireless</p>
     </section>
   </div>
 </div>
