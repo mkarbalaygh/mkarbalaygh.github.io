@@ -48,10 +48,10 @@ title: "Home"
     <section class="section-block">
       <h2 class="section-heading">Recent News</h2>
       <ul class="news-list">
-        <li><strong class="news-date">[09/2026]</strong> Serving on the Technical Program Committee (TPC) for the IEEE International Conference on Communications (ICC 2027).</li>
-        <li><strong class="news-date">[2026]</strong> Our paper “<a href="https://arxiv.org/abs/2607.18649" target="_blank" rel="noopener noreferrer">Distributed Edge Learning under Imperfect Data Sensing</a>” has been accepted to the 2027 IEEE Information Theory Workshop (ITW).</li>
-        <li><strong class="news-date">[05/2026]</strong> Served as session chair for two technical sessions at IEEE INFOCOM 2026 in Tokyo, Japan.</li>
-        <li><strong class="news-date">[05/2026]</strong> Presented the paper “<a href="https://ieeexplore.ieee.org/abstract/document/11571334" target="_blank" rel="noopener noreferrer">Coherence-Aware Distributed Learning under Heterogeneous Downlink Impairments</a>” at IEEE INFOCOM 2026 in Tokyo, Japan.</li>
+        <li><strong class="news-date">[09/2026]</strong> Serving on the Technical Program Committee (TPC) for the IEEE ICC 2027!</li>
+        <li><strong class="news-date">[07/2026]</strong> Our paper “<a href="https://arxiv.org/abs/2607.18649" target="_blank" rel="noopener noreferrer">Distributed Edge Learning under Imperfect Data Sensing</a>” has been accepted to the 2027 IEEE Information Theory Workshop (ITW)!</li>
+        <li><strong class="news-date">[05/2026]</strong> Served as session chair at IEEE INFOCOM 2026 in Tokyo, Japan!</li>
+        <li><strong class="news-date">[05/2026]</strong> Presented the paper “<a href="https://ieeexplore.ieee.org/abstract/document/11571334" target="_blank" rel="noopener noreferrer">Coherence-Aware Distributed Learning under Heterogeneous Downlink Impairments</a>” at IEEE INFOCOM 2026 in Tokyo, Japan!</li>
       </ul>
     </section>
   </div>
