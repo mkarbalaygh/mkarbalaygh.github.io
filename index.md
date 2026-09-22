@@ -31,10 +31,7 @@ title: "Home"
     <section class="section-block">
       <h2 class="section-heading">Bio</h2>
       <p>
-        I am a Postdoctoral Research Associate at the Elmore Family School of Electrical and Computer Engineering at Purdue University, working with Prof. David J. Love and Prof. Christopher G. Brinton.
-      </p>
-      <p>
-        Before joining Purdue, I conducted research at Nokia Bell Labs in Murray Hill, New Jersey. I received my Ph.D. in Electrical Engineering from The University of Texas at Dallas in 2024, where I was advised by Prof. Aria Nosratinia.
+        I am currently a Postdoctoral Research Associate at Purdue University, working with Prof. <a href="https://engineering.purdue.edu/~djlove/" target="_blank" rel="noopener noreferrer">David J. Love</a> and Prof. <a href="https://www.cbrinton.net/index.html" target="_blank" rel="noopener noreferrer">Christopher G. Brinton</a> in the Elmore Family School of Electrical and Computer Engineering. Prior to joining Purdue, I conducted research at <a href="https://www.nokia.com/bell-labs/" target="_blank" rel="noopener noreferrer">Nokia Bell Labs</a> in Murray Hill, New Jersey. I received my Ph.D. in Electrical Engineering from the University of Texas at Dallas, under the supervision of Prof. <a href="https://labs.utdallas.edu/aria/people/dr-aria-nosratinia/" target="_blank" rel="noopener noreferrer">Aria Nosratinia</a>. During my doctoral studies, I received the ECE Research Excellence Award and the Excellence in Education Doctoral Fellowship.
       </p>
     </section>
 
