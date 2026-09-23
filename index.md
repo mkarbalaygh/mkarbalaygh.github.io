@@ -9,7 +9,7 @@ title: "Home"
          src="/assets/images/52616DFD-22BC-42F9-9AD0-132018D2E23D_1_105_c.jpeg"
          alt="Mehdi Karbalayghareh">
 
-    <h1 class="profile-name">Mehdi Karbalayghareh, Ph.D.</h1>
+    <h1 class="profile-name">Mehdi Karbalayghareh</h1>
     <p class="profile-title">Postdoctoral Research Associate</p>
     <p class="profile-affiliation">Elmore Family School of Electrical and Computer Engineering<br>Purdue University</p>
     <a class="profile-email" href="mailto:mkarbala@purdue.edu">mkarbala@purdue.edu</a>
@@ -26,9 +26,10 @@ title: "Home"
       </a>
       <a href="/files/mehdi-cv.pdf" target="_blank" rel="noopener noreferrer" title="Curriculum Vitae" aria-label="Curriculum Vitae">
         <svg class="profile-cv-icon" viewBox="0 0 32 32" role="img" aria-hidden="true">
-          <rect x="5" y="3" width="22" height="26" rx="3"></rect>
-          <path d="M10 10h12M10 15h12M10 20h7"></path>
-          <text x="16" y="27" text-anchor="middle">CV</text>
+          <path d="M7 2.5h12l6 6v20a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 7 28.5z"></path>
+          <path d="M19 2.5v6h6"></path>
+          <rect class="profile-cv-icon-label-bg" x="4" y="16" width="24" height="10" rx="1.5"></rect>
+          <text x="16" y="23.2" text-anchor="middle">PDF</text>
         </svg>
       </a>
     </div>
