@@ -38,7 +38,7 @@ title: "Home"
     <section class="section-block">
       <h2 class="section-heading">Research Interests</h2>
       <p>
-        My research lies at the intersection of artificial intelligence and machine learning (AI/ML), information theory, and wireless communications, focusing on edge intelligence, distributed learning, and the AI-integrated design of sensing, computation, and communication for 6G and beyond.
+        My research lies at the intersection of artificial intelligence/machine learning (AI/ML), information theory, and wireless communications, focusing on edge intelligence, distributed learning, and the AI-integrated design of sensing, computation, and communication for 6G and beyond.
       </p>
     </section>
 
