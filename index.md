@@ -25,12 +25,7 @@ title: "Home"
         <img src="/assets/images/email.png" alt="Email">
       </a>
       <a href="/files/mehdi-cv.pdf" target="_blank" rel="noopener noreferrer" title="Curriculum Vitae" aria-label="Curriculum Vitae">
-        <svg class="profile-cv-icon" viewBox="0 0 32 32" role="img" aria-hidden="true">
-          <path d="M7 2.5h12l6 6v20a1.5 1.5 0 0 1-1.5 1.5h-15A1.5 1.5 0 0 1 7 28.5z"></path>
-          <path d="M19 2.5v6h6"></path>
-          <rect class="profile-cv-icon-label-bg" x="4" y="16" width="24" height="10" rx="1.5"></rect>
-          <text x="16" y="23.2" text-anchor="middle">PDF</text>
-        </svg>
+        <span class="profile-cv-icon" aria-hidden="true">CV</span>
       </a>
     </div>
   </aside>
