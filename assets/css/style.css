@@ -372,10 +372,6 @@ body.publications .pub-title {
   text-decoration: none;
 }
 
-body.publications .pub-title--unlinked {
-  color: var(--text);
-}
-
 body.publications a.pub-title:hover {
   text-decoration: underline;
 }
