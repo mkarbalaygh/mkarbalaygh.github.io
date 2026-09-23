@@ -384,6 +384,36 @@ body.publications .pub-entry em {
   font-style: italic;
 }
 
+/* Status badges sit beneath each publication citation. */
+body.publications .pub-status {
+  display: inline-block;
+  margin-top: 7px;
+  padding: 3px 11px;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 13px;
+  line-height: 1.5;
+  font-weight: 650;
+}
+
+body.publications .pub-status--published {
+  color: #216e40;
+  background: #eaf7ef;
+  border-color: #c7e8d3;
+}
+
+body.publications .pub-status--under-review {
+  color: #59616d;
+  background: #f1f2f4;
+  border-color: #dfe3e8;
+}
+
+body.publications .pub-status--accepted {
+  color: #225dad;
+  background: #ebf3ff;
+  border-color: #c5dcfa;
+}
+
 @media (max-width: 560px) {
   body.publications .page-content .pub-entry {
     padding-left: 49px;
