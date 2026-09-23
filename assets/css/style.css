@@ -299,7 +299,7 @@ body.home .page-content {
 
 .news-date {
   font-weight: 700;
-  color: var(--accent);
+  color: #000;
   white-space: nowrap;
 }
 
