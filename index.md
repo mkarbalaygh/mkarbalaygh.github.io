@@ -9,7 +9,7 @@ title: "Home"
          src="/assets/images/52616DFD-22BC-42F9-9AD0-132018D2E23D_1_105_c.jpeg"
          alt="Mehdi Karbalayghareh">
 
-    <h1 class="profile-name">Mehdi Karbalayghareh</h1>
+    <h1 class="profile-name">Mehdi Karbalayghareh, Ph.D.</h1>
     <p class="profile-title">Postdoctoral Research Associate</p>
     <p class="profile-affiliation">Elmore Family School of Electrical and Computer Engineering<br>Purdue University</p>
     <a class="profile-email" href="mailto:mkarbala@purdue.edu">mkarbala@purdue.edu</a>
