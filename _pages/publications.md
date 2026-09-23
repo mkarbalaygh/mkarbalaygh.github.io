@@ -14,7 +14,7 @@ permalink: /publications/
 
   <h3 class="pub-subheading">Journal Papers</h3>
   <ul class="pub-list">
-    <li class="pub-entry"><span class="pub-id">[J12]</span><span class="pub-title pub-title--unlinked">AISAC: Closing the Loop Between AI and Integrated Sensing and Communication for 6G</span><br>
+    <li class="pub-entry"><span class="pub-id">[J12]</span><a class="pub-title" href="https://arxiv.org/abs/2607.16507" target="_blank" rel="noopener noreferrer" title="Read on arXiv">AISAC: Closing the Loop Between AI and Integrated Sensing and Communication for 6G</a><br>
       <strong>M. Karbalayghareh</strong>, A. Rajasekaran, X. Ma, D. J. Love, and C. G. Brinton, <em>submitted to IEEE Communications Magazine</em>, 2026.
       <br><span class="pub-status pub-status--under-review">Under Review</span>
     </li>
@@ -22,7 +22,7 @@ permalink: /publications/
       <strong>M. Karbalayghareh</strong>, D. J. Love, and C. G. Brinton, <em>submitted to IEEE Transactions on Wireless Communications</em>, 2026.
       <br><span class="pub-status pub-status--under-review">Under Review</span>
     </li>
-    <li class="pub-entry"><span class="pub-id">[J10]</span><span class="pub-title pub-title--unlinked">Optimal Multi-RIS Placement: Coverage-Guaranteed Sum Rate Maximization Under Inhomogeneous User Distributions</span><br>
+    <li class="pub-entry"><span class="pub-id">[J10]</span><a class="pub-title" href="https://arxiv.org/abs/2607.07990" target="_blank" rel="noopener noreferrer" title="Read on arXiv">Optimal Multi-RIS Placement: Coverage-Guaranteed Sum Rate Maximization Under Inhomogeneous User Distributions</a><br>
       A. Rajasekaran, <strong>M. Karbalayghareh</strong>, X. Ma, D. J. Love, and C. G. Brinton, <em>submitted to IEEE Transactions on Wireless Communications</em>, 2026.
       <br><span class="pub-status pub-status--under-review">Under Review</span>
     </li>
