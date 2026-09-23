@@ -235,6 +235,25 @@ body.home .page-content {
   object-fit: contain;
 }
 
+.profile-social .profile-cv-icon {
+  display: block;
+  width: 27px;
+  height: 27px;
+  fill: none;
+  stroke: var(--text);
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.profile-social .profile-cv-icon text {
+  fill: var(--text);
+  stroke: none;
+  font-family: var(--font-sans);
+  font-size: 7px;
+  font-weight: 700;
+}
+
 .home-content {
   min-width: 0;
 }

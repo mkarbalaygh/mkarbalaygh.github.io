@@ -24,6 +24,13 @@ title: "Home"
       <a href="mailto:mkarbala@purdue.edu" title="Email">
         <img src="/assets/images/email.png" alt="Email">
       </a>
+      <a href="/files/mehdi-cv.pdf" target="_blank" rel="noopener noreferrer" title="Curriculum Vitae" aria-label="Curriculum Vitae">
+        <svg class="profile-cv-icon" viewBox="0 0 32 32" role="img" aria-hidden="true">
+          <rect x="5" y="3" width="22" height="26" rx="3"></rect>
+          <path d="M10 10h12M10 15h12M10 20h7"></path>
+          <text x="16" y="27" text-anchor="middle">CV</text>
+        </svg>
+      </a>
     </div>
   </aside>
 
