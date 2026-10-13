@@ -48,6 +48,7 @@ title: "Home"
     <section class="section-block">
       <h2 class="section-heading">Recent News</h2>
       <ul class="news-list">
+        <li><strong class="news-date">[10/2026]</strong> Serving on the Technical Program Committee (TPC) for the IEEE WCNC 2027 Workshop on AI-Aided Integrated Sensing and Communications (AI-ISAC)!</li>
         <li><strong class="news-date">[09/2026]</strong> Serving on the Technical Program Committee (TPC) for the IEEE ICC 2027!</li>
         <li><strong class="news-date">[07/2026]</strong> Our paper “<a href="https://arxiv.org/abs/2607.18649" target="_blank" rel="noopener noreferrer">Distributed Edge Learning under Imperfect Data Sensing</a>” has been accepted to the 2027 IEEE Information Theory Workshop (ITW)!</li>
         <li><strong class="news-date">[05/2026]</strong> Served as session chair at IEEE INFOCOM 2026 in Tokyo, Japan!</li>
