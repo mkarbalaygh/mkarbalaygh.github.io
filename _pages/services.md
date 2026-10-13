@@ -10,6 +10,7 @@ permalink: /services/
 
   <h3>Technical Program Committee</h3>
   <ul class="service-list">
+    <li>IEEE Wireless Communications and Networking Conference (WCNC) — 1st Workshop on AI-Aided Integrated Sensing and Communications (AI-ISAC), 2027</li>
     <li>IEEE International Conference on Communications (ICC), 2027</li>
   </ul>
 
