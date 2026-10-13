@@ -26,15 +26,6 @@ permalink: /talks/
   </section>
 
   <section class="talk-entry">
-    <h2 class="talk-event">Information Theory and Applications Workshop (ITA)</h2>
-    <span class="talk-badge talk-badge--poster">Poster</span>
-    <ul class="talk-details">
-      <li><strong>Location:</strong> San Diego, California, USA</li>
-      <li><strong>Date:</strong> February 2026</li>
-    </ul>
-  </section>
-
-  <section class="talk-entry">
     <h2 class="talk-event">IEEE International Conference on Communications (ICC)</h2>
     <span class="talk-badge talk-badge--talk">Talk</span>
     <ul class="talk-details">
