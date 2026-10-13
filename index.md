@@ -3,6 +3,8 @@ layout: default
 title: "Home"
 ---
 
+<!-- pages-refresh: 2026-10-13-wcnc-ai-isac -->
+
 <div class="home-grid">
   <aside class="profile-card">
     <img class="profile-photo"
