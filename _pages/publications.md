@@ -18,7 +18,7 @@ permalink: /publications/
       <strong>M. Karbalayghareh</strong>, A. Rajasekaran, X. Ma, D. J. Love, and C. G. Brinton, <em>submitted to IEEE Communications Magazine</em>, 2026.
       <br><span class="pub-status pub-status--under-review">Under Review</span>
     </li>
-    <li class="pub-entry"><span class="pub-id">[J11]</span><span class="pub-title pub-title--unlinked">Learning OTA: A Unified Framework for Edge Sensing, Computation, and Communication</span><br>
+    <li class="pub-entry"><span class="pub-id">[J11]</span><a class="pub-title" href="https://arxiv.org/abs/2610.04718" target="_blank" rel="noopener noreferrer" title="Read on arXiv">Learning OTA: A Unified Framework for Edge Sensing, Computation, and Communication</a><br>
       <strong>M. Karbalayghareh</strong>, D. J. Love, and C. G. Brinton, <em>submitted to IEEE Transactions on Wireless Communications</em>, 2026.
       <br><span class="pub-status pub-status--under-review">Under Review</span>
     </li>
